@@ -1,0 +1,52 @@
+is_global = true
+build_property.TargetFramework = net6.0-ios
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = HorizontalVerticalStack
+build_property.ProjectDir = D:\Users\popular\Documents\CursoNetMaui\HorizontalVerticalStack\HorizontalVerticalStack\
+
+[D:/Users/popular/Documents/CursoNetMaui/HorizontalVerticalStack/HorizontalVerticalStack/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = HorizontalVerticalStack.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[D:/Users/popular/Documents/CursoNetMaui/HorizontalVerticalStack/HorizontalVerticalStack/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = HorizontalVerticalStack.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[D:/Users/popular/Documents/CursoNetMaui/HorizontalVerticalStack/HorizontalVerticalStack/HorizontalStackLayoutDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = HorizontalVerticalStack.HorizontalStackLayoutDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = HorizontalStackLayoutDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = HorizontalStackLayoutDemo.xaml
+
+[D:/Users/popular/Documents/CursoNetMaui/HorizontalVerticalStack/HorizontalVerticalStack/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = HorizontalVerticalStack.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[D:/Users/popular/Documents/CursoNetMaui/HorizontalVerticalStack/HorizontalVerticalStack/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = HorizontalVerticalStack.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[D:/Users/popular/Documents/CursoNetMaui/HorizontalVerticalStack/HorizontalVerticalStack/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = HorizontalVerticalStack.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[D:/Users/popular/Documents/CursoNetMaui/HorizontalVerticalStack/HorizontalVerticalStack/VerticalStackLayoutDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = HorizontalVerticalStack.VerticalStackLayoutDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = VerticalStackLayoutDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = VerticalStackLayoutDemo.xaml

@@ -1,0 +1,76 @@
+is_global = true
+build_property.TargetFramework = net6.0-windows10.0.19041.0
+build_property.TargetPlatformMinVersion = 10.0.17763.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 9A19103F-16F7-4668-BE54-9A1E7A4F7556
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ControlsDemo
+build_property.ProjectDir = d:\Users\popular\Documents\CursoNetMaui\Controles\ControlsDemo\ControlsDemo\
+
+[d:/Users/popular/Documents/CursoNetMaui/Controles/ControlsDemo/ControlsDemo/ActivityControlsDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ControlsDemo.ActivityControlsDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = ActivityControlsDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = ActivityControlsDemo.xaml
+
+[d:/Users/popular/Documents/CursoNetMaui/Controles/ControlsDemo/ControlsDemo/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ControlsDemo.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[d:/Users/popular/Documents/CursoNetMaui/Controles/ControlsDemo/ControlsDemo/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ControlsDemo.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[d:/Users/popular/Documents/CursoNetMaui/Controles/ControlsDemo/ControlsDemo/CollectionsControlsDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ControlsDemo.CollectionsControlsDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = CollectionsControlsDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = CollectionsControlsDemo.xaml
+
+[d:/Users/popular/Documents/CursoNetMaui/Controles/ControlsDemo/ControlsDemo/CommandsControlsDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ControlsDemo.CommandsControlsDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = CommandsControlsDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = CommandsControlsDemo.xaml
+
+[d:/Users/popular/Documents/CursoNetMaui/Controles/ControlsDemo/ControlsDemo/InputControlsDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ControlsDemo.InputControlsDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = InputControlsDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = InputControlsDemo.xaml
+
+[d:/Users/popular/Documents/CursoNetMaui/Controles/ControlsDemo/ControlsDemo/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ControlsDemo.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[d:/Users/popular/Documents/CursoNetMaui/Controles/ControlsDemo/ControlsDemo/PresentationControlsDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ControlsDemo.PresentationControlsDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = PresentationControlsDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = PresentationControlsDemo.xaml
+
+[d:/Users/popular/Documents/CursoNetMaui/Controles/ControlsDemo/ControlsDemo/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ControlsDemo.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[d:/Users/popular/Documents/CursoNetMaui/Controles/ControlsDemo/ControlsDemo/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ControlsDemo.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[d:/Users/popular/Documents/CursoNetMaui/Controles/ControlsDemo/ControlsDemo/TextControlsDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ControlsDemo.TextControlsDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = TextControlsDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = TextControlsDemo.xaml
